@@ -1,0 +1,13 @@
+API とは
+Application Programming Interface の略
+
+機能やデータを外部から呼び出して利用できるよう定めた規約
+
+WebAPIとは
+HTPPなどのインターネット関連技術を利用してプログラムが読み書きしやすい形で
+メッセージ送受信を行えるよう定義した規約、または規約を実装して展開されるサービス。
+
+RESTとは
+REpresentational State Transfer の略
+分散型システムにおける設計原則群（設計ルール）
+
